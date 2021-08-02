@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = cakmaksedef@gmail.com
+	name = Sedef Cakmak
